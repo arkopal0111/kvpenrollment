@@ -19,7 +19,7 @@ def get_data_from_exel():
 df = get_data_from_exel()
 
 # -----------------  MAIN PAGE -----------------------------
-st.title('Kendriya Vidyalaya Panbari')
+st.title('Kendriya Vidyalaya No 1 Kanchrapara')
 st.header(":bar_chart: Student Enrollment Dashboard")
 st.markdown("##")
 
